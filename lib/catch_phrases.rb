@@ -16,4 +16,4 @@ def any_phrase(argument)
   puts "#{argument}"
 end
 
-any_phrase(mario)
+any_phrase("do a barrel roll")
